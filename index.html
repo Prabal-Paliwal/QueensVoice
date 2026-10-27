@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>QueensVoice - find help in your language</title>
+<meta name="description" content="Pick your language and see the places in Queens that actually serve people in it.">
+
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- language picker -->
+<div id="pick">
+  <div class="pick-top">
+    <h1>QueensVoice</h1>
+    <p class="sub">Find help in the language you think in.</p>
+    <p class="note">
+      Almost half of Queens speaks a language other than English at home. This map only shows
+      health and counseling places that report serving people in <i>your</i> language, not every
+      place that happens to be nearby.
+    </p>
+  </div>
+
+  <div id="langs"></div>
+
+  <p class="note small">Language data is whatever each clinic reports to SAMHSA, the federal health agency.</p>
+</div>
+
+
+<!-- the map -->
+<div id="main" class="hide">
+  <div id="panel">
+    <div id="top">
+      <div class="row">
+        <button id="back" title="All languages">&#8592;</button>
+        <input id="search" type="search" placeholder="Search by name or neighborhood" autocomplete="off">
+      </div>
+
+      <h2 id="langname"></h2>
+
+      <button id="loc">Sort by distance from me</button>
+      <label><input type="checkbox" id="comm"> Also show services without language reports</label>
+    </div>
+
+    <div id="list"></div>
+
+    <div id="srcs">
+      Sources: <a href="https://findtreatment.gov" target="_blank">SAMHSA findtreatment.gov</a>
+      and the <a href="https://data.cityofnewyork.us/resource/ji82-xba5" target="_blank">NYC Facilities Database</a>.
+    </div>
+  </div>
+
+  <div id="map"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>

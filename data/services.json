@@ -1,0 +1,1423 @@
+[
+ {
+  "name": "Cornerstone of Medical Arts Center Rehabilitation",
+  "address": "159-05 Union Turnpike 2nd Floor",
+  "city": "Fresh Meadows",
+  "zip": "11366",
+  "phone": "718-906-6700 x3008",
+  "website": "https://www.cornerstoneny.com",
+  "lat": 40.7207915,
+  "lon": -73.8078571,
+  "kind": "substance use",
+  "payment": "Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "NYC/HHC Queens Hospital Center Queens Hosp Ctr Child Adolescent OPD",
+  "address": "82-68 164 Street Suite P-315",
+  "city": "Jamaica",
+  "zip": "11432",
+  "phone": "718-883-2700",
+  "website": "https://www.nychealthandhospitals.org",
+  "lat": 40.717292,
+  "lon": -73.8043918,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "NYC HHC Queens Hospital Center Psychiatric Inpatient Unit",
+  "address": "82-68 164th Street",
+  "city": "Jamaica",
+  "zip": "11432",
+  "phone": "718-883-3000",
+  "website": "https://www.nychealthandhospitals.org/metropolitan/",
+  "lat": 40.7181405,
+  "lon": -73.8047858,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Haitian Creole",
+   "Russian",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "NYC HHC Queens Hospital Center CPEP",
+  "address": "82-70 164th Street Cellar Floor",
+  "city": "Jamaica",
+  "zip": "11432",
+  "phone": "718-883-3575",
+  "website": "https://www.nychealthandhospitals.org/metropolitan/",
+  "lat": 40.7171155,
+  "lon": -73.8035822,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Haitian Creole",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "NYC HHC Queens Hospital Center Partial Hospital",
+  "address": "82-50 164th Street Ambul Care Pavilion, Suite P-355",
+  "city": "Jamaica",
+  "zip": "11432",
+  "phone": "718-883-2870",
+  "website": "https://www.nychealthandhospitals.org/metropolitan/",
+  "lat": 40.7176633,
+  "lon": -73.8037509,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "Cornerstone of Medical Arts Center Detoxification",
+  "address": "159-05 Union Turnpike 3rd and 4th Floor",
+  "city": "Fresh Meadows",
+  "zip": "11366",
+  "phone": "718-906-6700",
+  "website": "https://www.cornerstoneny.com",
+  "lat": 40.7207915,
+  "lon": -73.8078571,
+  "kind": "substance use",
+  "payment": "Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Queens Comprehensive Outpatient Prog COP",
+  "address": "175-20 Hillside Avenue 2nd, 3rd and 4th Floors",
+  "city": "Jamaica",
+  "zip": "11432",
+  "phone": "718-558-7230 x5812",
+  "website": "https://www.saintjosephs.org",
+  "lat": 40.7116422,
+  "lon": -73.7869182,
+  "kind": "mental health + substance use",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "New York Therapeutic Communities Inc",
+  "address": "162-24 Jamaica Avenue",
+  "city": "Jamaica",
+  "zip": "11432",
+  "phone": "718-657-2021 x1301",
+  "website": "https://www.staynout.org",
+  "lat": 40.7044211,
+  "lon": -73.7970689,
+  "kind": "substance use",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Catholic Charities Neighborhood Servs Jamaica Behavioral Health Center",
+  "address": "161-10 Jamaica Avenue 2nd Floor",
+  "city": "Jamaica",
+  "zip": "11432",
+  "phone": "718-704-5488",
+  "website": "https://www.ccbq.org",
+  "lat": 40.7037585,
+  "lon": -73.7978388,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Private or Community foundation; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "Transitional Services for New York Inc Counseling and Crisis Center",
+  "address": "90-27 Sutphin Boulevard 5th Floor",
+  "city": "Jamaica",
+  "zip": "11435",
+  "phone": "718-526-8400 x7131",
+  "website": "https://www.tsiny.org",
+  "lat": 40.7024295,
+  "lon": -73.8079068,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Nao Medical Jamaica",
+  "address": "90-18 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "phone": "917-310-3371",
+  "website": "https://naomedical.com",
+  "lat": 40.702451,
+  "lon": -73.808505,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; U.S. Department of VA funds",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Hindi",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Samaritan Daytop Village Inc",
+  "address": "14410 Jamaica Avenue",
+  "city": "Jamaica",
+  "zip": "11435",
+  "phone": "718-206-1990",
+  "website": "https://www.samaritanvillage.org",
+  "lat": 40.7019527,
+  "lon": -73.8110739,
+  "kind": "mental health + substance use",
+  "payment": "Federal, or any government funding for substance use treatment programs; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; SAMHSA funding/block grants",
+  "languages": [
+   "English",
+   "French"
+  ]
+ },
+ {
+  "name": "Flushing Hospital Medical Center Psychiatric Inpatient Unit",
+  "address": "45th Avenue at Parsons Boulevard Unit 3, North 1",
+  "city": "Flushing",
+  "zip": "11355",
+  "phone": "718-670-4416",
+  "website": "https://www.flushinghospital.org",
+  "lat": 40.7556245,
+  "lon": -73.81565,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Hindi",
+   "Korean",
+   "Persian (Farsi)",
+   "Spanish",
+   "Tagalog (Filipino)"
+  ]
+ },
+ {
+  "name": "Jamaica Hospital Medical Center CPEP",
+  "address": "8900 Van Wyck Expressway Ground Floor",
+  "city": "Richmond Hill",
+  "zip": "11418",
+  "phone": "718-206-7135",
+  "website": "https://",
+  "lat": 40.7005373,
+  "lon": -73.816226,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Haitian Creole",
+   "Hindi",
+   "Korean",
+   "Persian (Farsi)",
+   "Russian",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Jamaica Hospital Medical Center Inpatient Program",
+  "address": "8900 Van Wyck Expressway Units 2 and 3",
+  "city": "Richmond Hill",
+  "zip": "11418",
+  "phone": "718-206-7135",
+  "website": "https://",
+  "lat": 40.7005373,
+  "lon": -73.816226,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Hindi",
+   "Japanese",
+   "Russian",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Flushing Hospital and Medical Center Medical Managed Detoxification",
+  "address": "4500 Parsons Boulevard Unit 2 West",
+  "city": "Flushing",
+  "zip": "11355",
+  "phone": "718-670-4416",
+  "website": "https://www.flushinghospital.org",
+  "lat": 40.7553379,
+  "lon": -73.8170937,
+  "kind": "substance use",
+  "payment": "Federal, or any government funding for substance use treatment programs; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; SAMHSA funding/block grants",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Hindi",
+   "Korean",
+   "Persian (Farsi)",
+   "Spanish",
+   "Tagalog (Filipino)"
+  ]
+ },
+ {
+  "name": "Flushing Hospital Medical Center Mental Health Clinic",
+  "address": "4500 Parsons Boulevard Suite 410",
+  "city": "Flushing",
+  "zip": "11355",
+  "phone": "718-679-4416",
+  "website": "https://www.flushinghospital.org",
+  "lat": 40.7553379,
+  "lon": -73.8170937,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Hindi",
+   "Korean",
+   "Persian (Farsi)",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Advanced Human Services Inc Med Sup Withdrawal Outpatient",
+  "address": "112-15 72nd Road Suite  LL-1",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "phone": "718-261-3437",
+  "website": "https://ADVANCEDHUMANSERVICES.COM",
+  "lat": 40.7212686,
+  "lon": -73.8380927,
+  "kind": "substance use",
+  "payment": "Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Hebrew",
+   "Polish",
+   "Russian"
+  ]
+ },
+ {
+  "name": "Advanced Human Services Inc SUD Outpatient Program",
+  "address": "112-15 72nd Road Basement, Suite LL-1",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "phone": "718-261-3437",
+  "website": "https://ADVANCEDHUMANSERVICES.COM",
+  "lat": 40.7212686,
+  "lon": -73.8380927,
+  "kind": "substance use",
+  "payment": "Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Hebrew",
+   "Polish",
+   "Russian"
+  ]
+ },
+ {
+  "name": "AIDS Center of Queens County Inc",
+  "address": "91-30 Van Wyck Expressway 7th Floor",
+  "city": "Richmond Hill",
+  "zip": "11418",
+  "phone": "718-896-2500",
+  "website": "https://acqc.org",
+  "lat": 40.6987037,
+  "lon": -73.8153003,
+  "kind": "mental health",
+  "payment": "County or local government funds; Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Samaritan Daytop Village Inc 820 Stabil Rehab Reintegration",
+  "address": "130-20 89th Road",
+  "city": "Richmond Hill",
+  "zip": "11418",
+  "phone": "718-441-8913",
+  "website": "https://",
+  "lat": 40.699531,
+  "lon": -73.8202887,
+  "kind": "mental health + substance use",
+  "payment": "Federal, or any government funding for substance use treatment programs; Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "WellLife Network Inc Permanent Housing and ACT",
+  "address": "209-11 Jamaica Avenue",
+  "city": "Queens Village",
+  "zip": "11428",
+  "phone": "718-313-1292",
+  "website": "https://www.welllifenetwork.org",
+  "lat": 40.7148915,
+  "lon": -73.7510312,
+  "kind": "mental health",
+  "payment": "Medicaid; Cash or self-payment",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "Child Center of NY Macari Family Wellness Center",
+  "address": "140-15 B Sanford Avenue 2nd Floor",
+  "city": "Flushing",
+  "zip": "11355",
+  "phone": "718-358-8288",
+  "website": "https://www.childcenterny.org",
+  "lat": 40.7588619,
+  "lon": -73.8206648,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "Arabic",
+   "Chinese",
+   "English",
+   "Hindi",
+   "Korean",
+   "Russian",
+   "Spanish",
+   "Tagalog (Filipino)"
+  ]
+ },
+ {
+  "name": "Saint Xavier Community Services Part 822 Outpatient Program with OTP",
+  "address": "108-18 72nd Avenue 1st Floor",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "phone": "718-640-6627",
+  "website": "https://stxaviercs.com",
+  "lat": 40.7197653,
+  "lon": -73.8420489,
+  "kind": "substance use",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "Arabic",
+   "English",
+   "German",
+   "Greek",
+   "Haitian Creole",
+   "Hebrew",
+   "Hindi",
+   "Japanese",
+   "Persian (Farsi)",
+   "Russian",
+   "Spanish",
+   "Tagalog (Filipino)"
+  ]
+ },
+ {
+  "name": "Outreach Development Corporation Other Licensed Practioners",
+  "address": "11711 Myrtle Avenue",
+  "city": "Richmond Hill",
+  "zip": "11418",
+  "phone": "718-847-9233",
+  "website": "https://www.opiny.org",
+  "lat": 40.7001817,
+  "lon": -73.8320755,
+  "kind": "mental health + substance use",
+  "payment": "County or local government funds; Federal Grants; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Other State funds; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Haitian Creole",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Bleuler CD Recovery Services Outpatient Clinic",
+  "address": "104-70 Queens Boulevard 3rd Floor",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "phone": "718-275-6010",
+  "website": "https://bleulerpc.org",
+  "lat": 40.7229758,
+  "lon": -73.8483607,
+  "kind": "mental health + substance use",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Risewell Community Services Queens ACT Team",
+  "address": "116-06 Myrtle Avenue 4th Floor",
+  "city": "Richmond Hill",
+  "zip": "11418",
+  "phone": "718-850-7099 x4206",
+  "website": "https://www.risewell.org",
+  "lat": 40.6999667,
+  "lon": -73.8326696,
+  "kind": "mental health",
+  "payment": "County or local government funds; Medicaid; Other State funds; Cash or self-payment",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "Asian Community Alcohol Counseling Asian American Mental Health",
+  "address": "39-01 Main Street Suite 508",
+  "city": "Flushing",
+  "zip": "11354",
+  "phone": "718-445-0111",
+  "website": "https://",
+  "lat": 40.7601645,
+  "lon": -73.8300113,
+  "kind": "mental health + substance use",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Korean"
+  ]
+ },
+ {
+  "name": "Queens Village Committee for MH JCAP Inc",
+  "address": "116-30 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11434",
+  "phone": "718-322-2500 x637",
+  "website": "https://Acacianetwork.org",
+  "lat": 40.6819487,
+  "lon": -73.7927982,
+  "kind": "mental health + substance use",
+  "payment": "County or local government funds; Community Mental Health Block Grants; Medicare; Medicaid; Other State funds; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "J CAP SRR",
+  "address": "116-30 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11434",
+  "phone": "718-322-2500",
+  "website": "https://",
+  "lat": 40.6819487,
+  "lon": -73.7927982,
+  "kind": "mental health + substance use",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Rego Park Counseling LLC Mental Health Center",
+  "address": "63-36 99th Street",
+  "city": "Rego Park",
+  "zip": "11374",
+  "phone": "718-459-2558",
+  "website": "https://www.regoparkcounseling.com",
+  "lat": 40.7318157,
+  "lon": -73.8572769,
+  "kind": "mental health + substance use",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Hebrew",
+   "Russian",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Rego Park Counseling LLC Outpatient Clinic",
+  "address": "63-36 99th Street 1st Floor",
+  "city": "Rego Park",
+  "zip": "11374",
+  "phone": "718-459-2558",
+  "website": "https://regoparkcounseling.com",
+  "lat": 40.7318157,
+  "lon": -73.8572769,
+  "kind": "mental health + substance use",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Polish",
+   "Russian",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Creedmoor Psychiatric Center Queens Village Wellness and Recov Ctr",
+  "address": "80-45 Winchester Boulevard Building 73",
+  "city": "Queens Village",
+  "zip": "11427",
+  "phone": "718-264-3950",
+  "website": "https://omh.ny.gov/omhweb/facilities/crpc/",
+  "lat": 40.7381071,
+  "lon": -73.732807,
+  "kind": "mental health",
+  "payment": "County or local government funds; Community Mental Health Block Grants; Community Service Block Grants; Federal Grants; IHS/Tribal/Urban (ITU) funds; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Other State funds; Private health insurance; Private or Community foundation; State corrections or juvenile justice funds; State education agency funds; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds; U.S. Department of VA funds",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Korean",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Lifeline Center for Child Development",
+  "address": "80-09 Winchester Boulevard",
+  "city": "Queens Village",
+  "zip": "11427",
+  "phone": "718-740-4300",
+  "website": "https://www.LifelineCenter.org",
+  "lat": 40.7386095,
+  "lon": -73.7329029,
+  "kind": "mental health",
+  "payment": "Federal Grants; Medicaid; Private or Community foundation; State education agency funds; State mental health agency (or equivalent) funds",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "Creedmoor Psychiatric Center State Psychiatric Center",
+  "address": "79-25 Winchester Boulevard Building 40",
+  "city": "Queens Village",
+  "zip": "11427",
+  "phone": "718-264-4000",
+  "website": "https://omh.ny.gov/omhweb/facilities/crpc/",
+  "lat": 40.741389,
+  "lon": -73.7322012,
+  "kind": "mental health",
+  "payment": "County or local government funds; Community Mental Health Block Grants; Community Service Block Grants; Federal Grants; IHS/Tribal/Urban (ITU) funds; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Other State funds; Private health insurance; Private or Community foundation; State corrections or juvenile justice funds; State education agency funds; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds; U.S. Department of VA funds",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Japanese",
+   "Korean",
+   "Polish",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Forge Health of Queens",
+  "address": "95-20 63rd Road Suite K",
+  "city": "Rego Park",
+  "zip": "11374",
+  "phone": "718-814-7600",
+  "website": "https://forgehealth.com/location-offices/queens/",
+  "lat": 40.7305487,
+  "lon": -73.8613341,
+  "kind": "substance use",
+  "payment": "Private health insurance; Cash or self-payment",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "New York City Childrens Center Queens Inpatient",
+  "address": "7403 Commonwealth Boulevard",
+  "city": "Bellerose",
+  "zip": "11426",
+  "phone": "718-264-4500",
+  "website": "https://omh.ny.gov/omhweb/facilities/nyccc/",
+  "lat": 40.7453715,
+  "lon": -73.7259795,
+  "kind": "mental health",
+  "payment": "County or local government funds; Community Mental Health Block Grants; Community Service Block Grants; IHS/Tribal/Urban (ITU) funds; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Other State funds; Private health insurance; Private or Community foundation; State corrections or juvenile justice funds; State education agency funds; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds; U.S. Department of VA funds",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Haitian Creole"
+  ]
+ },
+ {
+  "name": "New York City Childrens Center Outpatient Treatment",
+  "address": "7403 Commonwealth Boulevard",
+  "city": "Bellerose",
+  "zip": "11426",
+  "phone": "718-264-4500",
+  "website": "https://www.omh.ny.gov/omhweb/facilities/nyccc",
+  "lat": 40.7460127,
+  "lon": -73.7259979,
+  "kind": "mental health",
+  "payment": "County or local government funds; Community Mental Health Block Grants; Community Service Block Grants; IHS/Tribal/Urban (ITU) funds; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Other State funds; Private health insurance; Private or Community foundation; State corrections or juvenile justice funds; State education agency funds; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds; U.S. Department of VA funds",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "New York City Childrens Center Upper and Lower School Day Trt/IDT",
+  "address": "7403 Commonwealth Boulevard",
+  "city": "Bellerose",
+  "zip": "11426",
+  "phone": "718-264-4579",
+  "website": "https://www.omh.ny.gov/omhweb/facilities/nyccc/",
+  "lat": 40.7460056,
+  "lon": -73.7259956,
+  "kind": "mental health",
+  "payment": "Medicaid; Private health insurance; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Russian",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Long Island Consultation Center Inc",
+  "address": "91-31 Queens Boulevard 2nd Floor, Suite 222",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "phone": "718-896-3400 x117",
+  "website": "https://www.liccnewyorkcity.com",
+  "lat": 40.7336782,
+  "lon": -73.86937,
+  "kind": "mental health + substance use",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "French",
+   "Haitian Creole",
+   "Hebrew",
+   "Hindi",
+   "Russian",
+   "Spanish",
+   "Tagalog (Filipino)"
+  ]
+ },
+ {
+  "name": "New Horizon Counseling Center Ozone Park CCBHC",
+  "address": "108-19 Rockaway Boulevard",
+  "city": "South Ozone Park",
+  "zip": "11420",
+  "phone": "718-845-2620",
+  "website": "https://www.nhcc.us",
+  "lat": 40.6781621,
+  "lon": -73.8303045,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "QSA Services Inc DBA of Queens/The PAC Program OP",
+  "address": "40-06 Warren Street",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "phone": "718-729-8686",
+  "website": "https://www.thepacprogram.com",
+  "lat": 40.74877,
+  "lon": -73.870517,
+  "kind": "mental health + substance use",
+  "payment": "Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "South Richmond Hill Recovery Outpatient Clinic",
+  "address": "88-08 Liberty Avenue",
+  "city": "Ozone Park",
+  "zip": "11417",
+  "phone": "718-785-3380 x100",
+  "website": "https://",
+  "lat": 40.679692,
+  "lon": -73.8501928,
+  "kind": "substance use",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "Arabic",
+   "Chinese",
+   "English",
+   "Haitian Creole",
+   "Hindi",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Catholic Charities Neighborhood Servs Woodhaven Behavioral Health Center",
+  "address": "78-15 Jamaica Avenue",
+  "city": "Woodhaven",
+  "zip": "11421",
+  "phone": "718-456-7001",
+  "website": "https://www.ccbq.org",
+  "lat": 40.6922353,
+  "lon": -73.8637871,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Private or Community foundation; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "RevCore Recovery Center/Manhattan Outpatient Clinic 1",
+  "address": "37-49 91 Street 1st Floor",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "phone": "212-966-9537",
+  "website": "https://www.revcorerecovery.com",
+  "lat": 40.7492289,
+  "lon": -73.8754423,
+  "kind": "substance use",
+  "payment": "Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Mental Health Providers of Western Queens/School Base Services",
+  "address": "37-08 91st Street Suite 3",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "phone": "718-779-2263",
+  "website": "https://www.mhpwq.org",
+  "lat": 40.750328,
+  "lon": -73.8761509,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Hindi",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Catholic Charities Neighborhood Servs Corona Behavioral Health Center",
+  "address": "91-14 37th Avenue",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "phone": "718-779-1600",
+  "website": "https://www.ccbq.org",
+  "lat": 40.7505417,
+  "lon": -73.8752353,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Private or Community foundation; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Zucker Hillside Hospital Northwell Addiction Recovery Services/Daehrs",
+  "address": "7559 263rd Street Littauer Building Zucker Hillside Hosp",
+  "city": "Glen Oaks",
+  "zip": "11004",
+  "phone": "718-470-8950",
+  "website": "https://zucker.northwell.edu/",
+  "lat": 40.7511841,
+  "lon": -73.7116515,
+  "kind": "substance use",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "English"
+  ]
+ },
+ {
+  "name": "Long Island Jewish Medical Center Adult Partial Hospitalization Program",
+  "address": "75-59 263rd Street ACP Building",
+  "city": "Glen Oaks",
+  "zip": "11004",
+  "phone": "718-470-4887",
+  "website": "https://zucker.northwell.edu",
+  "lat": 40.7511841,
+  "lon": -73.7116515,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Private or Community foundation; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "Long Island Jewish Medical Center Zucker Hillside Ambulatory Care Clinic",
+  "address": "75-59 263rd Street Basement, 1st and 2nd Floor",
+  "city": "Glen Oaks",
+  "zip": "11004",
+  "phone": "718-470-4887",
+  "website": "https://zucker.northwell.edu",
+  "lat": 40.7511841,
+  "lon": -73.7116515,
+  "kind": "mental health",
+  "payment": "County or local government funds; Community Mental Health Block Grants; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Other State funds; Private health insurance; Private or Community foundation; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Long Island Jewish Medical Center Psychiatric Inpatient Unit",
+  "address": "75-59 263rd Street and 265-21 76th Avenue",
+  "city": "Glen Oaks",
+  "zip": "11004",
+  "phone": "718-470-4887",
+  "website": "https://zucker.northwell.edu/?utm_source=provider_listing&utm_medium=partner&utm_campaign=yext",
+  "lat": 40.7508249,
+  "lon": -73.7108259,
+  "kind": "mental health",
+  "payment": "IHS/Tribal/Urban (ITU) funds; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds; U.S. Department of VA funds",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Haitian Creole",
+   "Hindi",
+   "Russian",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "NYC/HHC Elmhurst Hospital Center Elmhurst Hospital BH IP Servs",
+  "address": "79-01 Broadway Main Building, 10th Floor",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "phone": "718-334-1649",
+  "website": "https://www.nychealthandhospitals.org/locations/elmhurst",
+  "lat": 40.7450814,
+  "lon": -73.8857797,
+  "kind": "mental health",
+  "payment": "County or local government funds; Community Mental Health Block Grants; Medicare; Medicaid; Other State funds; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Bleuler Psychotherapy Center",
+  "address": "82-11 37th Avenue Suite 901",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "phone": "888-272-9355",
+  "website": "https://www.bleulerpc.org",
+  "lat": 40.7500015,
+  "lon": -73.8839533,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Elmhurst Hospital Center Alcoholism Outpatient Clinic",
+  "address": "79-01 Broadway H Building, Room H3-117",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "phone": "718-334-4601",
+  "website": "https://www.nychealthandhospitals.org/locations/elmhurst",
+  "lat": 40.7450814,
+  "lon": -73.8857797,
+  "kind": "mental health + substance use",
+  "payment": "County or local government funds; Medicare; Medicaid; Other State funds; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "NYC HHC Elmhurst Hospital Center Mental Health Clinic",
+  "address": "79-01 Broadway H Building, 3rd Floor",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "phone": "718-334-3977",
+  "website": "https://www.nychealthandhospitals.org/metropolitan/",
+  "lat": 40.7450814,
+  "lon": -73.8857797,
+  "kind": "mental health",
+  "payment": "County or local government funds; Medicare; Medicaid; Other State funds; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "NYC HHC Elmhurst Hospital Center Partial Hospitalization Program",
+  "address": "79-01 Broadway H Building, 3rd Floor",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "phone": "718-334-5805",
+  "website": "https://www.nychealthandhospitals.org/metropolitan/",
+  "lat": 40.7450814,
+  "lon": -73.8857797,
+  "kind": "mental health",
+  "payment": "County or local government funds; Medicare; Medicaid; Other State funds; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Elmhurst Hospital Center Opiate Dependency Treatment Services",
+  "address": "79-01 Broadway Annex O, 2nd Floor, Elmhurst Hospital",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "phone": "718-334-3190",
+  "website": "https://www.nychealthandhospitals.org/locations/elmhurst/",
+  "lat": 40.7450814,
+  "lon": -73.8857797,
+  "kind": "mental health + substance use",
+  "payment": "County or local government funds; Medicare; Medicaid; Other State funds; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "NYC HHC Elmhurst Hospital Center CPEP",
+  "address": "79-01 Broadway",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "phone": "718-334-3712",
+  "website": "https://www.nychealthandhospitals.org/metropolitan/",
+  "lat": 40.7450814,
+  "lon": -73.8857797,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "New Horizon Counseling Center Howard Beach Clinic",
+  "address": "156-28 Crossbay Boulevard",
+  "city": "Howard Beach",
+  "zip": "11414",
+  "phone": "718-738-6800",
+  "website": "https://www.nhcc.us",
+  "lat": 40.6633317,
+  "lon": -73.8412682,
+  "kind": "mental health + substance use",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Nao Medical Jackson Heights",
+  "address": "80-10 Northern Boulevard",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "phone": "917-310-3371",
+  "website": "https://naomedical.com",
+  "lat": 40.7551775,
+  "lon": -73.8868993,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; U.S. Department of VA funds",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Hindi",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "ACQC Woodside Satellite",
+  "address": "62-07 Woodside Avenue 3rd Floor",
+  "city": "Woodside",
+  "zip": "11377",
+  "phone": "718-896-2500",
+  "website": "https://acqc.org",
+  "lat": 40.744648,
+  "lon": -73.9021315,
+  "kind": "mental health",
+  "payment": "County or local government funds; Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Outreach Development Corporation Residential Rehab for Youth 1",
+  "address": "16-14 Weirfield Street",
+  "city": "Ridgewood",
+  "zip": "11385",
+  "phone": "718-456-7820",
+  "website": "https://www.opiny.org",
+  "lat": 40.6970234,
+  "lon": -73.9056237,
+  "kind": "mental health + substance use",
+  "payment": "Federal, or any government funding for substance use treatment programs; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Goodwill Industries NY/NJ PROS Rebound",
+  "address": "45-02 Ditmars Boulevard Suite 1032",
+  "city": "Astoria",
+  "zip": "11105",
+  "phone": "718-777-6311",
+  "website": "https://www.goodwillnynj.org/",
+  "lat": 40.7700772,
+  "lon": -73.9033731,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Nao Medical Astoria",
+  "address": "37-15 23rd Avenue",
+  "city": "Astoria",
+  "zip": "11105",
+  "phone": "917-310-3371",
+  "website": "https://naomedical.com",
+  "lat": 40.7719013,
+  "lon": -73.9089274,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; U.S. Department of VA funds",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Hindi",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Creedmoor Psychiatric Center Steinway Wellness and Recovery Center",
+  "address": "38-11 Broadway 3rd Floor",
+  "city": "Astoria",
+  "zip": "11103",
+  "phone": "718-726-5953 x200",
+  "website": "https://omh.ny.gov/omhweb/facilities/crpc/outpatient_services.htm",
+  "lat": 40.7592383,
+  "lon": -73.9192838,
+  "kind": "mental health",
+  "payment": "County or local government funds; Community Mental Health Block Grants; Community Service Block Grants; Federal Grants; IHS/Tribal/Urban (ITU) funds; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Other State funds; Private health insurance; Private or Community foundation; State corrections or juvenile justice funds; State education agency funds; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds; U.S. Department of VA funds",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "New York Counseling for Change LLC New York Counseling for Change Clinic",
+  "address": "30-46 Northern Boulevard",
+  "city": "Long Island City",
+  "zip": "11101",
+  "phone": "718-424-6191",
+  "website": "https://www.nyc4c.org",
+  "lat": 40.7516809,
+  "lon": -73.9333769,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "Chinese",
+   "English",
+   "Hebrew",
+   "Polish",
+   "Portuguese",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Nao Medical Long Island City",
+  "address": "30-07 36th Avenue",
+  "city": "Astoria",
+  "zip": "11106",
+  "phone": "917-310-3371",
+  "website": "https://naomedical.com",
+  "lat": 40.7569507,
+  "lon": -73.9301611,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; U.S. Department of VA funds",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Hindi",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Fortune Society Inc",
+  "address": "29-76 Northern Boulevard",
+  "city": "Long Island City",
+  "zip": "11101",
+  "phone": "212-691-7554",
+  "website": "https://www.fortunesociety.org/",
+  "lat": 40.7506852,
+  "lon": -73.9343583,
+  "kind": "mental health + substance use",
+  "payment": "Medicare; Medicaid; Private health insurance; Private or Community foundation; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Reality House Inc Outpatient",
+  "address": "31-75 23rd Street 4th Floor",
+  "city": "Astoria",
+  "zip": "11106",
+  "phone": "212-281-6004 x400",
+  "website": "https://rhiny.org",
+  "lat": 40.7646491,
+  "lon": -73.9299659,
+  "kind": "substance use",
+  "payment": "Federal, or any government funding for substance use treatment programs; IHS/Tribal/Urban (ITU) funds; Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; SAMHSA funding/block grants",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "RHI Community/Veterans Behav Hlthcare 820 Rehab Reintegration",
+  "address": "8-13 Astoria Boulevard",
+  "city": "Astoria",
+  "zip": "11102",
+  "phone": "212-281-6004",
+  "website": "https://www.rhiny.org",
+  "lat": 40.7727467,
+  "lon": -73.9318405,
+  "kind": "substance use",
+  "payment": "Federal, or any government funding for substance use treatment programs; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Phoenix House LIC Parkside Outpatient",
+  "address": "34-11 Vernon Boulevard",
+  "city": "Astoria",
+  "zip": "11106",
+  "phone": "631-406-5518",
+  "website": "https://phoenixhouseny.org",
+  "lat": 40.7649064,
+  "lon": -73.9403187,
+  "kind": "mental health + substance use",
+  "payment": "Federal Grants; Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "New Horizon Counseling Center Inc The Central Avenue Clinic",
+  "address": "1622 Central Avenue",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "phone": "718-327-9001",
+  "website": "https://www.nhcc.us",
+  "lat": 40.6049257,
+  "lon": -73.7525513,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "ACQC Far Rockaway Satellite",
+  "address": "1600 Central Avenue 3rd Floor",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "phone": "718-896-2500",
+  "website": "https://acqc.org",
+  "lat": 40.6052465,
+  "lon": -73.7523243,
+  "kind": "mental health",
+  "payment": "County or local government funds; Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "Northwell Hlth LI Jewish Med Ctr Hillside Hosp/Far Rockaway Trt Ctr OP2",
+  "address": "1600 Central Avenue 2nd Floor",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "phone": "718-868-1400",
+  "website": "https://www.northwell.edu",
+  "lat": 40.6052465,
+  "lon": -73.7523243,
+  "kind": "substance use",
+  "payment": "Federal, or any government funding for substance use treatment programs; Medicare; Medicaid; Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Catholic Charities Neighborhood Servs Rockaway Behavioral Health Center",
+  "address": "18-47 Mott Avenue 2nd Floor",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "phone": "718-337-6800",
+  "website": "https://www.ccbq.org",
+  "lat": 40.603248,
+  "lon": -73.7513542,
+  "kind": "mental health",
+  "payment": "Federal Grants; Medicare; Medicaid; Private health insurance; Private or Community foundation; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "French",
+   "Haitian Creole",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "New Day Treatment Center LLC Outpatient Clinic",
+  "address": "1050 Beach 21st Street",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "phone": "718-799-4999",
+  "website": "https://newdaytreatment.org",
+  "lat": 40.6036147,
+  "lon": -73.7535625,
+  "kind": "substance use",
+  "payment": "Medicaid; Cash or self-payment",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Platinum Recovery Center Methadone Clinic",
+  "address": "712 Beach 20th Street 1st Floor",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "phone": "347-897-0077",
+  "website": "https://",
+  "lat": 40.601956,
+  "lon": -73.75332,
+  "kind": "substance use",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid",
+  "languages": [
+   "English"
+  ]
+ },
+ {
+  "name": "New Horizon Counseling Center Inc Far Rockaway CCBHC",
+  "address": "720 Beach 20th Street Ground Floor",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "phone": "718-327-7002",
+  "website": "https://www.nhcc.us",
+  "lat": 40.6021222,
+  "lon": -73.753072,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Episcopal Health Services Inc Wellness and Recovery Center",
+  "address": "19-20 Brookhaven Avenue",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "phone": "718-869-8400 x5096",
+  "website": "https://www.ehs.org",
+  "lat": 40.5995911,
+  "lon": -73.7537932,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "French",
+   "Haitian Creole",
+   "Hindi",
+   "Polish",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "Episcopal Health Services Inc Community Mental Health Center",
+  "address": "19-20 Brookhaven Avenue",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "phone": "718-869-8822 x1500",
+  "website": "https://www.ehs.org",
+  "lat": 40.5995911,
+  "lon": -73.7537932,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Private health insurance; Cash or self-payment",
+  "languages": [
+   "American Sign Language",
+   "English",
+   "Haitian Creole",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "New Horizon Counseling Center Arverne Clinic",
+  "address": "66-03 Beach Channel Drive",
+  "city": "Arverne",
+  "zip": "11692",
+  "phone": "718-471-8671",
+  "website": "https://www.nhcc.us",
+  "lat": 40.5927328,
+  "lon": -73.7954319,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ },
+ {
+  "name": "New Horizon Counseling Center West Rockaway Clinic",
+  "address": "88-02 Rockaway Beach Boulevard",
+  "city": "Far Rockaway",
+  "zip": "11693",
+  "phone": "718-634-3461",
+  "website": "https://www.nhcc.us",
+  "lat": 40.5875082,
+  "lon": -73.8132567,
+  "kind": "mental health",
+  "payment": "Medicare; Medicaid; Federal military insurance (e.g., TRICARE); Private health insurance; Cash or self-payment; State-financed health insurance plan other than Medicaid; State mental health agency (or equivalent) funds; State welfare or child and family services funds",
+  "languages": [
+   "English",
+   "Spanish"
+  ]
+ }
+]

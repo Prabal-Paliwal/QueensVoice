@@ -1,0 +1,1550 @@
+[
+ {
+  "name": "Howard Beach",
+  "address": "92-06 156 Avenue",
+  "city": "Howard Beach",
+  "zip": "11414",
+  "lat": 40.6638125681,
+  "lon": -73.8418005525,
+  "kind": "library"
+ },
+ {
+  "name": "Fresh Meadows",
+  "address": "193-20 Horace Harding Expressway",
+  "city": "Fresh Meadows",
+  "zip": "11365",
+  "lat": 40.7415593826,
+  "lon": -73.7822681507,
+  "kind": "library"
+ },
+ {
+  "name": "Glendale",
+  "address": "78-60 73 Place",
+  "city": "Ridgewood",
+  "zip": "11385",
+  "lat": 40.70258055,
+  "lon": -73.8757991131,
+  "kind": "library"
+ },
+ {
+  "name": "Kew Gardens Hills",
+  "address": "72-33 Vleigh Place",
+  "city": "Flushing",
+  "zip": "11367",
+  "lat": 40.7259407866,
+  "lon": -73.8207482989,
+  "kind": "library"
+ },
+ {
+  "name": "Research Foundation Of The City University Of New York",
+  "address": "29-10 Thomson Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7443137985,
+  "lon": -73.9378989198,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Asian Americans For Equality Inc",
+  "address": "92-14 Roosevelt Avenue",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "lat": 40.7484285679,
+  "lon": -73.8740234862,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Baisley Park",
+  "address": "117-11 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11436",
+  "lat": 40.6803224258,
+  "lon": -73.7916806295,
+  "kind": "library"
+ },
+ {
+  "name": "Rosedale 105 Site B",
+  "address": "145-16 243 Street",
+  "city": "Rosedale",
+  "zip": "11422",
+  "lat": 40.659373208,
+  "lon": -73.7403233189,
+  "kind": "legal help"
+ },
+ {
+  "name": "Safe Horizon Inc",
+  "address": "112-25 Queens Boulevard",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "lat": 40.7184299448,
+  "lon": -73.8362044909,
+  "kind": "legal help"
+ },
+ {
+  "name": "Safe Horizon Inc",
+  "address": "92-15 Northern Boulevard",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "lat": 40.7568518699,
+  "lon": -73.8755336166,
+  "kind": "legal help"
+ },
+ {
+  "name": "Far Rockaway",
+  "address": "16-37 Central Avenue",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "lat": 40.6043336419,
+  "lon": -73.7524660745,
+  "kind": "library"
+ },
+ {
+  "name": "Community Mediation Services, Inc.",
+  "address": "89-64 163 Street",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.7052911502,
+  "lon": -73.7974352188,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queens Borough Public Library",
+  "address": "98-30 57 Avenue",
+  "city": "Corona",
+  "zip": "11368",
+  "lat": 40.7374406134,
+  "lon": -73.8615730327,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Fund For The City Of New York, Inc.",
+  "address": "151-20 Jamaica Avenue",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.7021855392,
+  "lon": -73.8028103342,
+  "kind": "legal help"
+ },
+ {
+  "name": "Channel View School For Research (27Q262)",
+  "address": "100-00 Beach Channel Drive",
+  "city": "Far Rockaway",
+  "zip": "11694",
+  "lat": 40.5865819497,
+  "lon": -73.8235947535,
+  "kind": "legal help"
+ },
+ {
+  "name": "Bay Terrace",
+  "address": "18-36 Bell Boulevard",
+  "city": "Bayside",
+  "zip": "11360",
+  "lat": 40.7825359852,
+  "lon": -73.7770147104,
+  "kind": "library"
+ },
+ {
+  "name": "Exodus Transitional Community Inc",
+  "address": "61-27 186 Street",
+  "city": "Fresh Meadows",
+  "zip": "11365",
+  "lat": 40.739414484,
+  "lon": -73.7876914159,
+  "kind": "legal help"
+ },
+ {
+  "name": "Cv 113Th Pct South Jamaica/Hollis",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queens Borough Public Library",
+  "address": "92-25 Rockaway Beach Boulevard",
+  "city": "Far Rockaway",
+  "zip": "11693",
+  "lat": 40.5858465557,
+  "lon": -73.816060445,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Far Rockaway 101 Precinct",
+  "address": "145-16 243 Street",
+  "city": "Rosedale",
+  "zip": "11422",
+  "lat": 40.659373208,
+  "lon": -73.7403233189,
+  "kind": "legal help"
+ },
+ {
+  "name": "Auburndale",
+  "address": "25-55 Francis Lewis Boulevard",
+  "city": "Flushing",
+  "zip": "11358",
+  "lat": 40.7737590241,
+  "lon": -73.7963502396,
+  "kind": "library"
+ },
+ {
+  "name": "High School For Law Enforcement And Public Safety (28Q690)",
+  "address": "116-25 Guy R Brewer Boulevard",
+  "city": "Jamaica",
+  "zip": "11434",
+  "lat": 40.6859556933,
+  "lon": -73.7834388797,
+  "kind": "legal help"
+ },
+ {
+  "name": "Broad Channel",
+  "address": "16-26 Cross Bay Boulevard",
+  "city": "Far Rockaway",
+  "zip": "11693",
+  "lat": 40.6007401106,
+  "lon": -73.8200529934,
+  "kind": "library"
+ },
+ {
+  "name": "Whitestone",
+  "address": "151-10 14 Road",
+  "city": "Whitestone",
+  "zip": "11357",
+  "lat": 40.7885379249,
+  "lon": -73.8107190561,
+  "kind": "library"
+ },
+ {
+  "name": "Make The Road New York",
+  "address": "35-59 81 Street",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "lat": 40.749936113,
+  "lon": -73.8848265561,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Mcgoldrick",
+  "address": "155-06 Roosevelt Avenue",
+  "city": "Flushing",
+  "zip": "11354",
+  "lat": 40.7637546941,
+  "lon": -73.8098346667,
+  "kind": "library"
+ },
+ {
+  "name": "Community Mediation Services Map Mediation- Queens Map Sites",
+  "address": "89-64 163 Street",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.7052911502,
+  "lon": -73.7974352188,
+  "kind": "legal help"
+ },
+ {
+  "name": "The Fortune Society Inc",
+  "address": "29-76 Northern Boulevard",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7503767241,
+  "lon": -73.934604899,
+  "kind": "legal help"
+ },
+ {
+  "name": "Jacob A Riis Neighborhood Settlement",
+  "address": "36-36 10 Street",
+  "city": "Astoria",
+  "zip": "11106",
+  "lat": 40.760682249,
+  "lon": -73.9416948641,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Ridgewood",
+  "address": "2012 Madison Street",
+  "city": "Ridgewood",
+  "zip": "11385",
+  "lat": 40.7051794633,
+  "lon": -73.9025728831,
+  "kind": "library"
+ },
+ {
+  "name": "Jhs 226 Virgil I. Grissom (27Q226)",
+  "address": "121-10 Rockaway Boulevard",
+  "city": "South Ozone Park",
+  "zip": "11420",
+  "lat": 40.675179975,
+  "lon": -73.816742805,
+  "kind": "legal help"
+ },
+ {
+  "name": "North Forest Park",
+  "address": "98-27 Metropolitan Avenue",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "lat": 40.7111946188,
+  "lon": -73.8536733063,
+  "kind": "library"
+ },
+ {
+  "name": "John Bowne High School (25Q425)",
+  "address": "63-25 Main Street",
+  "city": "Flushing",
+  "zip": "11367",
+  "lat": 40.7386978664,
+  "lon": -73.8239648244,
+  "kind": "legal help"
+ },
+ {
+  "name": "Jewish Community Council Of Greater Coney Island Inc",
+  "address": "158-24 73 Avenue",
+  "city": "Fresh Meadows",
+  "zip": "11366",
+  "lat": 40.7270839773,
+  "lon": -73.809872643,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Life Camp Mtu - 113Th Pct",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "Arverne",
+  "address": "312 Beach 54 Street",
+  "city": "Arverne",
+  "zip": "11692",
+  "lat": 40.5931527914,
+  "lon": -73.7840411494,
+  "kind": "library"
+ },
+ {
+  "name": "Corona",
+  "address": "38-23 104 Street",
+  "city": "Corona",
+  "zip": "11368",
+  "lat": 40.7508986537,
+  "lon": -73.8619816466,
+  "kind": "library"
+ },
+ {
+  "name": "North Hills",
+  "address": "57-04 Marathon Parkway",
+  "city": "Little Neck",
+  "zip": "11362",
+  "lat": 40.7592535927,
+  "lon": -73.7318305949,
+  "kind": "library"
+ },
+ {
+  "name": "Queens Legal Services Corporation",
+  "address": "89-00 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.703481871,
+  "lon": -73.8089236131,
+  "kind": "legal help"
+ },
+ {
+  "name": "Jacob A Riis Neighborhood Settlement",
+  "address": "31-51 21 Street",
+  "city": "Astoria",
+  "zip": "11106",
+  "lat": 40.7660914088,
+  "lon": -73.9301008749,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Astoria",
+  "address": "14-01 Astoria Boulevard",
+  "city": "Astoria",
+  "zip": "11102",
+  "lat": 40.7723888184,
+  "lon": -73.928723913,
+  "kind": "library"
+ },
+ {
+  "name": "Queens Collegiate: A College Board School (28Q310)",
+  "address": "167-01 Gothic Drive",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.714269455,
+  "lon": -73.7980766253,
+  "kind": "legal help"
+ },
+ {
+  "name": "Woodside",
+  "address": "54-22 Skillman Avenue",
+  "city": "Woodside",
+  "zip": "11377",
+  "lat": 40.7453493823,
+  "lon": -73.909799047,
+  "kind": "library"
+ },
+ {
+  "name": "Jacob A Riis Neighborhood Settlement",
+  "address": "10-25 41 Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7555936264,
+  "lon": -73.9445211199,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Long Island Gay And Lesbian Youth, Inc.",
+  "address": "37-18 Northern Boulevard",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7519305326,
+  "lon": -73.9254133216,
+  "kind": "legal help"
+ },
+ {
+  "name": "Jamaica Hospital",
+  "address": "89-00 Van Wyck Expressway Sr West",
+  "city": "Richmond Hill",
+  "zip": "11418",
+  "lat": 40.7004004295,
+  "lon": -73.8162794542,
+  "kind": "legal help"
+ },
+ {
+  "name": "Hunters Point",
+  "address": "47-40 Center Boulevard",
+  "city": "Long Island City",
+  "zip": "11109",
+  "lat": 40.7452871485,
+  "lon": -73.9580246382,
+  "kind": "library"
+ },
+ {
+  "name": "Legal Services Nyc",
+  "address": "89-00 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.703481871,
+  "lon": -73.8089236131,
+  "kind": "legal help"
+ },
+ {
+  "name": "Ravenswood",
+  "address": "14-01 36 Avenue",
+  "city": "Astoria",
+  "zip": "11106",
+  "lat": 40.760584666,
+  "lon": -73.9373831094,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "State Of New York",
+  "address": "88-11 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.7045191709,
+  "lon": -73.8083818845,
+  "kind": "legal help"
+ },
+ {
+  "name": "Safe Horizon Inc",
+  "address": "126-02 82 Avenue",
+  "city": "Kew Gardens",
+  "zip": "11415",
+  "lat": 40.7132482402,
+  "lon": -73.8258806331,
+  "kind": "legal help"
+ },
+ {
+  "name": "Elmhurst",
+  "address": "86-07 Broadway",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "lat": 40.7385177879,
+  "lon": -73.8768709659,
+  "kind": "library"
+ },
+ {
+  "name": "Catholic Charities Neighborhood Services Inc",
+  "address": "23-56 Broadway",
+  "city": "Astoria",
+  "zip": "11106",
+  "lat": 40.7633600909,
+  "lon": -73.9288079929,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Life Camp Acs Cm3 - St. John'S Rockaway Park",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "East Elmhurst",
+  "address": "95-06 Astoria Boulevard",
+  "city": "East Elmhurst",
+  "zip": "11369",
+  "lat": 40.762426376,
+  "lon": -73.8738728564,
+  "kind": "library"
+ },
+ {
+  "name": "Ms 137 America'S School Of Heroes (27Q137)",
+  "address": "109-15 98 Street",
+  "city": "Ozone Park",
+  "zip": "11417",
+  "lat": 40.6783251325,
+  "lon": -73.8396146208,
+  "kind": "legal help"
+ },
+ {
+  "name": "Cv Woodside Partial 114 Pct",
+  "address": "10-31 41 Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7551799661,
+  "lon": -73.9443055025,
+  "kind": "legal help"
+ },
+ {
+  "name": "Make The Road New York",
+  "address": "92-10 Roosevelt Avenue",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "lat": 40.7484285679,
+  "lon": -73.8740234862,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Rego Park",
+  "address": "91-41 63 Drive",
+  "city": "Rego Park",
+  "zip": "11374",
+  "lat": 40.7273227692,
+  "lon": -73.8645065694,
+  "kind": "library"
+ },
+ {
+  "name": "Preparatory Academy For Writers: A College Board School (29Q283)",
+  "address": "143-10 Springfield Boulevard",
+  "city": "Springfield Gardens",
+  "zip": "11413",
+  "lat": 40.6680862551,
+  "lon": -73.757868374,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queens Legal Services Corporation",
+  "address": "126-02 82 Avenue",
+  "city": "Kew Gardens",
+  "zip": "11415",
+  "lat": 40.7132482402,
+  "lon": -73.8258806331,
+  "kind": "legal help"
+ },
+ {
+  "name": "Forest Hills",
+  "address": "108-19 71 Avenue",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "lat": 40.7221495973,
+  "lon": -73.8430473293,
+  "kind": "library"
+ },
+ {
+  "name": "Woodhaven",
+  "address": "85-41 Forest Parkway",
+  "city": "Woodhaven",
+  "zip": "11421",
+  "lat": 40.6945535275,
+  "lon": -73.8614418098,
+  "kind": "library"
+ },
+ {
+  "name": "Korean Community Services Of Metropolitan New York Inc",
+  "address": "203-05 32 Avenue",
+  "city": "Bayside",
+  "zip": "11361",
+  "lat": 40.7710171715,
+  "lon": -73.7864823173,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Hanac Inc",
+  "address": "27-40 Hoyt Avenue South",
+  "city": "Astoria",
+  "zip": "11102",
+  "lat": 40.771102242,
+  "lon": -73.9192596153,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Nycha: Queensbridge Houses- 114Th Precinct",
+  "address": "10-31 41 Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7551799661,
+  "lon": -73.9443055025,
+  "kind": "legal help"
+ },
+ {
+  "name": "Mitchell-Linden",
+  "address": "31-32 Union Street",
+  "city": "Flushing",
+  "zip": "11354",
+  "lat": 40.769143933,
+  "lon": -73.8269749843,
+  "kind": "library"
+ },
+ {
+  "name": "Queens Borough Public Library",
+  "address": "86-07 Broadway",
+  "city": "Elmhurst",
+  "zip": "11373",
+  "lat": 40.7385177879,
+  "lon": -73.8768709659,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Cv 113Th Pct Site B - Rockaway Office",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queens - 103Rd Precinct",
+  "address": "106-56 Guy R Brewer Boulevard",
+  "city": "Jamaica",
+  "zip": "11433",
+  "lat": 40.6982302931,
+  "lon": -73.792726933,
+  "kind": "legal help"
+ },
+ {
+  "name": "Cv 113Th Pct Site A",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "South Ozone Park",
+  "address": "128-16 Rockaway Boulevard",
+  "city": "South Ozone Park",
+  "zip": "11420",
+  "lat": 40.6747842807,
+  "lon": -73.8092635671,
+  "kind": "library"
+ },
+ {
+  "name": "Emerald Isle Immigration Center Inc",
+  "address": "59-26 Woodside Avenue",
+  "city": "Woodside",
+  "zip": "11377",
+  "lat": 40.7449299126,
+  "lon": -73.9046979758,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Fund For The City Of New York",
+  "address": "149-18 Jamaica Avenue",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.7018095776,
+  "lon": -73.8048181734,
+  "kind": "legal help"
+ },
+ {
+  "name": "New York City Criminal Justice Agency",
+  "address": "36-46 37 Street",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7533125811,
+  "lon": -73.9261859564,
+  "kind": "legal help"
+ },
+ {
+  "name": "St. John'S University",
+  "address": "80-00 Utopia Parkway",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.7219045063,
+  "lon": -73.7949738553,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Chinese American Planning Council Inc",
+  "address": "133-14 41 Avenue",
+  "city": "Flushing",
+  "zip": "11355",
+  "lat": 40.7571785496,
+  "lon": -73.831266963,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Catholic Charities Neighborhood Services Inc",
+  "address": "9-16 27 Avenue",
+  "city": "Astoria",
+  "zip": "11102",
+  "lat": 40.7734900761,
+  "lon": -73.9306393513,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Briarwood",
+  "address": "85-12 Main Street",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.7100418825,
+  "lon": -73.8194588476,
+  "kind": "library"
+ },
+ {
+  "name": "South Hollis",
+  "address": "204-01 Hollis Avenue",
+  "city": "Saint Albans",
+  "zip": "11412",
+  "lat": 40.7070198089,
+  "lon": -73.7537969644,
+  "kind": "library"
+ },
+ {
+  "name": "Fund For The City Of New York, Inc.",
+  "address": "149-18 Jamaica Avenue",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.7018095776,
+  "lon": -73.8048181734,
+  "kind": "legal help"
+ },
+ {
+  "name": "Rosedale",
+  "address": "144-20 243 Street",
+  "city": "Rosedale",
+  "zip": "11422",
+  "lat": 40.659971775,
+  "lon": -73.7399084708,
+  "kind": "library"
+ },
+ {
+  "name": "Long Island City",
+  "address": "37-44 21 Street",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7578222905,
+  "lon": -73.9393047269,
+  "kind": "library"
+ },
+ {
+  "name": "The Young Womens Christian Association Of Queens",
+  "address": "42-07 Parsons Boulevard",
+  "city": "Flushing",
+  "zip": "11355",
+  "lat": 40.7580532011,
+  "lon": -73.8187947599,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Queens Community House, Inc.",
+  "address": "108-25 62 Drive",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "lat": 40.7363083346,
+  "lon": -73.8501277212,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queens Community House, Inc.",
+  "address": "110-01 62 Drive",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "lat": 40.7371881908,
+  "lon": -73.8489176776,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "South Jamaica",
+  "address": "108-41 Guy R Brewer Boulevard",
+  "city": "Jamaica",
+  "zip": "11433",
+  "lat": 40.6956384216,
+  "lon": -73.7901788532,
+  "kind": "library"
+ },
+ {
+  "name": "Laurelton",
+  "address": "134-26 225 Street",
+  "city": "Springfield Gardens",
+  "zip": "11413",
+  "lat": 40.6769600184,
+  "lon": -73.7456697821,
+  "kind": "library"
+ },
+ {
+  "name": "Seaside",
+  "address": "116-15 Rockaway Beach Boulevard",
+  "city": "Far Rockaway",
+  "zip": "11694",
+  "lat": 40.5793964366,
+  "lon": -73.8377353189,
+  "kind": "library"
+ },
+ {
+  "name": "Queens Legal Services Corp",
+  "address": "89-00 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.703481871,
+  "lon": -73.8089236131,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Broadway",
+  "address": "40-20 Broadway",
+  "city": "Astoria",
+  "zip": "11103",
+  "lat": 40.7585341544,
+  "lon": -73.9186254787,
+  "kind": "library"
+ },
+ {
+  "name": "Peninsula",
+  "address": "92-25 Rockaway Beach Boulevard",
+  "city": "Far Rockaway",
+  "zip": "11693",
+  "lat": 40.5858465557,
+  "lon": -73.816060445,
+  "kind": "library"
+ },
+ {
+  "name": "Queensbridge South",
+  "address": "10-30 41 Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7548801631,
+  "lon": -73.944574581,
+  "kind": "legal help"
+ },
+ {
+  "name": "Jewish Community Council Of Greater Coney Island Inc",
+  "address": "106-16 70 Avenue",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "lat": 40.721282663,
+  "lon": -73.8463316276,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Pomonok",
+  "address": "158-21 Jewel Avenue",
+  "city": "Fresh Meadows",
+  "zip": "11365",
+  "lat": 40.7330412514,
+  "lon": -73.8098803354,
+  "kind": "library"
+ },
+ {
+  "name": "Rochdale Village",
+  "address": "169-09 137 Avenue",
+  "city": "Jamaica",
+  "zip": "11434",
+  "lat": 40.672884247,
+  "lon": -73.7705879439,
+  "kind": "library"
+ },
+ {
+  "name": "Asian Americans For Equality Inc",
+  "address": "37-61 84 Street",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "lat": 40.7481242208,
+  "lon": -73.8816439182,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Life Camp Inc",
+  "address": "156-10 Baisley Boulevard",
+  "city": "Jamaica",
+  "zip": "11434",
+  "lat": 40.6747537921,
+  "lon": -73.7832435627,
+  "kind": "legal help"
+ },
+ {
+  "name": "Ozone Park",
+  "address": "92-24 Rockaway Boulevard",
+  "city": "Ozone Park",
+  "zip": "11417",
+  "lat": 40.6808665675,
+  "lon": -73.8464879909,
+  "kind": "library"
+ },
+ {
+  "name": "Life Camp Inc",
+  "address": "16-00 Central Avenue",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "lat": 40.6052414004,
+  "lon": -73.7523114842,
+  "kind": "legal help"
+ },
+ {
+  "name": "Sunnyside Community Services Inc",
+  "address": "43-31 39 Street",
+  "city": "Sunnyside",
+  "zip": "11104",
+  "lat": 40.7451036302,
+  "lon": -73.9256158507,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Chinese American Planning Council Inc",
+  "address": "136-18 39 Avenue",
+  "city": "Flushing",
+  "zip": "11354",
+  "lat": 40.7601185805,
+  "lon": -73.8293980851,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Jhs 8 Richard S. Grossley (28Q008)",
+  "address": "108-35 167 Street",
+  "city": "Jamaica",
+  "zip": "11433",
+  "lat": 40.6971383851,
+  "lon": -73.7865730357,
+  "kind": "legal help"
+ },
+ {
+  "name": "Lefrak City",
+  "address": "98-30 57 Avenue",
+  "city": "Corona",
+  "zip": "11368",
+  "lat": 40.7374406134,
+  "lon": -73.8615730327,
+  "kind": "library"
+ },
+ {
+  "name": "Cv 113Th Pct Site B",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "Life Camp Inc",
+  "address": "133-23 127 Street",
+  "city": "South Ozone Park",
+  "zip": "11420",
+  "lat": 40.6701798944,
+  "lon": -73.8120311955,
+  "kind": "legal help"
+ },
+ {
+  "name": "Osborne Treatment Services Inc",
+  "address": "125-01 Queens Boulevard",
+  "city": "Kew Gardens",
+  "zip": "11415",
+  "lat": 40.7127231598,
+  "lon": -73.8254812942,
+  "kind": "legal help"
+ },
+ {
+  "name": "Safe Horizon Inc",
+  "address": "34-16 Astoria Blvd South",
+  "city": "Astoria",
+  "zip": "11103",
+  "lat": 40.7693009216,
+  "lon": -73.9153362931,
+  "kind": "legal help"
+ },
+ {
+  "name": "Pmhs",
+  "address": "145-16 243 Street",
+  "city": "Rosedale",
+  "zip": "11422",
+  "lat": 40.659373208,
+  "lon": -73.7403233189,
+  "kind": "legal help"
+ },
+ {
+  "name": "Center For Alternative Sentencing And Employment Services In",
+  "address": "163-18 Jamaica Avenue",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.7046459292,
+  "lon": -73.7961997305,
+  "kind": "legal help"
+ },
+ {
+  "name": "Jamaica 103Rd Precinct",
+  "address": "145-16 243 Street",
+  "city": "Rosedale",
+  "zip": "11422",
+  "lat": 40.659373208,
+  "lon": -73.7403233189,
+  "kind": "legal help"
+ },
+ {
+  "name": "New York City Gay And Lesbian Anti-Violence Project Inc",
+  "address": "126-02 82 Avenue",
+  "city": "Kew Gardens",
+  "zip": "11415",
+  "lat": 40.7132482402,
+  "lon": -73.8258806331,
+  "kind": "legal help"
+ },
+ {
+  "name": "Hollis",
+  "address": "202-05 Hillside Avenue",
+  "city": "Hollis",
+  "zip": "11423",
+  "lat": 40.7201787776,
+  "lon": -73.7623046296,
+  "kind": "library"
+ },
+ {
+  "name": "Safe Horizon Inc",
+  "address": "125-01 Queens Boulevard",
+  "city": "Kew Gardens",
+  "zip": "11415",
+  "lat": 40.7127231598,
+  "lon": -73.8254812942,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queensbridge North",
+  "address": "10-43 41 Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7551799661,
+  "lon": -73.9443055025,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Poppenhusen",
+  "address": "121-23 14 Avenue",
+  "city": "College Point",
+  "zip": "11356",
+  "lat": 40.7862559375,
+  "lon": -73.8460103965,
+  "kind": "library"
+ },
+ {
+  "name": "Bayside",
+  "address": "214-20 Northern Boulevard",
+  "city": "Bayside",
+  "zip": "11361",
+  "lat": 40.7601339324,
+  "lon": -73.768362149,
+  "kind": "library"
+ },
+ {
+  "name": "Drum Desis Rising Up And Moving Inc",
+  "address": "72-18 Roosevelt Avenue",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "lat": 40.7464884235,
+  "lon": -73.8928433574,
+  "kind": "legal help"
+ },
+ {
+  "name": "Richmond Hill",
+  "address": "118-14 Hillside Avenue",
+  "city": "Richmond Hill",
+  "zip": "11418",
+  "lat": 40.7007752539,
+  "lon": -73.8316263391,
+  "kind": "library"
+ },
+ {
+  "name": "Glen Oaks",
+  "address": "256-04 Union Turnpike",
+  "city": "Glen Oaks",
+  "zip": "11004",
+  "lat": 40.7451449545,
+  "lon": -73.7148458951,
+  "kind": "library"
+ },
+ {
+  "name": "Hillcrest",
+  "address": "187-05 Union Turnpike",
+  "city": "Fresh Meadows",
+  "zip": "11366",
+  "lat": 40.7292611568,
+  "lon": -73.7819066512,
+  "kind": "library"
+ },
+ {
+  "name": "Cv Astoria Partial 114Th Pct",
+  "address": "10-31 41 Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7551799661,
+  "lon": -73.9443055025,
+  "kind": "legal help"
+ },
+ {
+  "name": "Central Library",
+  "address": "89-11 Merrick Boulevard",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.7078052723,
+  "lon": -73.7946441704,
+  "kind": "library"
+ },
+ {
+  "name": "Cambria Heights/Springfield- 105 Precinct",
+  "address": "145-16 243 Street",
+  "city": "Rosedale",
+  "zip": "11422",
+  "lat": 40.659373208,
+  "lon": -73.7403233189,
+  "kind": "legal help"
+ },
+ {
+  "name": "Humanities & Arts Magnet High School (29Q498)",
+  "address": "207-01 116 Avenue",
+  "city": "Cambria Heights",
+  "zip": "11411",
+  "lat": 40.6984088445,
+  "lon": -73.7462140186,
+  "kind": "legal help"
+ },
+ {
+  "name": "Catholic Charities Neighborhood Services Inc",
+  "address": "35-24 83 Street",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "lat": 40.7514761461,
+  "lon": -73.8839503715,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Sheltering Arms Children And Family Services Inc",
+  "address": "43-15 Beach Channel Drive",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "lat": 40.5955233509,
+  "lon": -73.7754373646,
+  "kind": "legal help"
+ },
+ {
+  "name": "Safe Horizon Inc",
+  "address": "151-20 Jamaica Avenue",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.7021855392,
+  "lon": -73.8028103342,
+  "kind": "legal help"
+ },
+ {
+  "name": "St. Albans",
+  "address": "191-05 Linden Boulevard",
+  "city": "Saint Albans",
+  "zip": "11412",
+  "lat": 40.692534076,
+  "lon": -73.7601095876,
+  "kind": "library"
+ },
+ {
+  "name": "Langston Hughes",
+  "address": "100-01 Northern Boulevard",
+  "city": "Corona",
+  "zip": "11368",
+  "lat": 40.7576399329,
+  "lon": -73.8681396185,
+  "kind": "library"
+ },
+ {
+  "name": "John Adams High School (27Q480)",
+  "address": "101-01 Rockaway Boulevard",
+  "city": "Ozone Park",
+  "zip": "11417",
+  "lat": 40.6786910535,
+  "lon": -73.8369196203,
+  "kind": "legal help"
+ },
+ {
+  "name": "New York City Criminal Justice Agency",
+  "address": "118-35 Queens Boulevard",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "lat": 40.7152762988,
+  "lon": -73.8306147154,
+  "kind": "legal help"
+ },
+ {
+  "name": "Middle Village",
+  "address": "72-31 Metropolitan Avenue",
+  "city": "Middle Village",
+  "zip": "11379",
+  "lat": 40.7129505319,
+  "lon": -73.8808662699,
+  "kind": "library"
+ },
+ {
+  "name": "Queens - Make The Road Ny",
+  "address": "92-10 Roosevelt Avenue",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "lat": 40.7484285679,
+  "lon": -73.8740234862,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "New York City Criminal Justice Agency",
+  "address": "125-01 Queens Boulevard",
+  "city": "Kew Gardens",
+  "zip": "11415",
+  "lat": 40.7127231598,
+  "lon": -73.8254812942,
+  "kind": "legal help"
+ },
+ {
+  "name": "Sunnyside",
+  "address": "43-06 Greenpoint Avenue",
+  "city": "Sunnyside",
+  "zip": "11104",
+  "lat": 40.7408121251,
+  "lon": -73.9216709311,
+  "kind": "library"
+ },
+ {
+  "name": "Queens - Make The Road Ny",
+  "address": "104-19 Roosevelt Avenue",
+  "city": "Corona",
+  "zip": "11368",
+  "lat": 40.7502908891,
+  "lon": -73.86116215,
+  "kind": "immigrant services"
+ },
+ {
+  "name": "Cambria Heights",
+  "address": "218-13 Linden Boulevard",
+  "city": "Cambria Heights",
+  "zip": "11411",
+  "lat": 40.6957447119,
+  "lon": -73.7411365589,
+  "kind": "library"
+ },
+ {
+  "name": "Breezy Point Mobile Library",
+  "address": "17 West Market Street",
+  "city": "Breezy Point",
+  "zip": "11697",
+  "lat": 40.5612103891,
+  "lon": -73.9136750428,
+  "kind": "library"
+ },
+ {
+  "name": "New York Legal Assistance Group  Inc",
+  "address": "89-17 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.7034191319,
+  "lon": -73.807924733,
+  "kind": "legal help"
+ },
+ {
+  "name": "Bellerose",
+  "address": "250-06 Hillside Avenue",
+  "city": "Bellerose",
+  "zip": "11426",
+  "lat": 40.7351667229,
+  "lon": -73.717097882,
+  "kind": "library"
+ },
+ {
+  "name": "Windsor Park",
+  "address": "79-50 Bell Boulevard",
+  "city": "Oakland Gardens",
+  "zip": "11364",
+  "lat": 40.7344965851,
+  "lon": -73.7556862796,
+  "kind": "library"
+ },
+ {
+  "name": "Jackson Heights",
+  "address": "35-51 81 Street",
+  "city": "Jackson Heights",
+  "zip": "11372",
+  "lat": 40.7502099137,
+  "lon": -73.8850699833,
+  "kind": "library"
+ },
+ {
+  "name": "Far Rockaway Teen Library",
+  "address": "20-02 Cornaga Avenue",
+  "city": "Far Rockaway",
+  "zip": "11691",
+  "lat": 40.6025047902,
+  "lon": -73.753560108,
+  "kind": "library"
+ },
+ {
+  "name": "100 Suits - 105Th Precinct",
+  "address": "227-12A Merrick Boulevard",
+  "city": "Springfield Gardens",
+  "zip": "11413",
+  "lat": 40.6765826339,
+  "lon": -73.7426904065,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queens - 113Th Precinct",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "Maspeth",
+  "address": "69-70 Grand Avenue",
+  "city": "Maspeth",
+  "zip": "11378",
+  "lat": 40.7269828871,
+  "lon": -73.8930855172,
+  "kind": "library"
+ },
+ {
+  "name": "Steinway",
+  "address": "21-45 31 Street",
+  "city": "Astoria",
+  "zip": "11105",
+  "lat": 40.7768223709,
+  "lon": -73.9094206937,
+  "kind": "library"
+ },
+ {
+  "name": "Legal Information For Families Today",
+  "address": "151-20 Jamaica Avenue",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.7021855392,
+  "lon": -73.8028103342,
+  "kind": "legal help"
+ },
+ {
+  "name": "The Legal Aid Society",
+  "address": "89-17 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.7034191319,
+  "lon": -73.807924733,
+  "kind": "legal help"
+ },
+ {
+  "name": "Flushing",
+  "address": "41-17 Main Street",
+  "city": "Flushing",
+  "zip": "11355",
+  "lat": 40.7577906006,
+  "lon": -73.828877909,
+  "kind": "library"
+ },
+ {
+  "name": "Hollis 113Th Pct",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "East Flushing",
+  "address": "196-36 Northern Boulevard",
+  "city": "Flushing",
+  "zip": "11358",
+  "lat": 40.7575534883,
+  "lon": -73.7843067323,
+  "kind": "library"
+ },
+ {
+  "name": "Queens Law Associates Not For Profit Corporation",
+  "address": "118-21 Queens Boulevard",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "lat": 40.7151211159,
+  "lon": -73.8314896392,
+  "kind": "legal help"
+ },
+ {
+  "name": "Hanac Inc",
+  "address": "40-10 99 Street",
+  "city": "Corona",
+  "zip": "11368",
+  "lat": 40.7490687281,
+  "lon": -73.8667773268,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Exodus Transitional Community Inc",
+  "address": "113-10 Horace Harding Expressway",
+  "city": "Corona",
+  "zip": "11368",
+  "lat": 40.7391342797,
+  "lon": -73.8486204875,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queensboro Hill",
+  "address": "60-05 Main Street",
+  "city": "Flushing",
+  "zip": "11355",
+  "lat": 40.7429391024,
+  "lon": -73.8251737728,
+  "kind": "library"
+ },
+ {
+  "name": "Muslim Community Network",
+  "address": "78-31 Parsons Boulevard",
+  "city": "Fresh Meadows",
+  "zip": "11366",
+  "lat": 40.7214515143,
+  "lon": -73.8092027232,
+  "kind": "legal help"
+ },
+ {
+  "name": "Jewish Community Council Of Greater Coney Island Inc",
+  "address": "106-16 71 Avenue",
+  "city": "Forest Hills",
+  "zip": "11375",
+  "lat": 40.7197543761,
+  "lon": -73.8448365034,
+  "kind": "literacy / ESOL"
+ },
+ {
+  "name": "Ravenswood",
+  "address": "35-32 21 Street",
+  "city": "Astoria",
+  "zip": "11106",
+  "lat": 40.7605127784,
+  "lon": -73.9366608937,
+  "kind": "library"
+ },
+ {
+  "name": "Long Island City High School (30Q450)",
+  "address": "14-30 Broadway",
+  "city": "Astoria",
+  "zip": "11106",
+  "lat": 40.7655308644,
+  "lon": -73.9331069309,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queens - 101St Precinct",
+  "address": "89-64 163 Street",
+  "city": "Jamaica",
+  "zip": "11432",
+  "lat": 40.7052911502,
+  "lon": -73.7974352188,
+  "kind": "legal help"
+ },
+ {
+  "name": "Queensbridge",
+  "address": "10-43 41 Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7551799661,
+  "lon": -73.9443055025,
+  "kind": "library"
+ },
+ {
+  "name": "Queens Village",
+  "address": "94-11 217 Street",
+  "city": "Queens Village",
+  "zip": "11428",
+  "lat": 40.7198929945,
+  "lon": -73.7390468024,
+  "kind": "library"
+ },
+ {
+  "name": "Douglaston/Little Neck",
+  "address": "249-01 Northern Boulevard",
+  "city": "Little Neck",
+  "zip": "11362",
+  "lat": 40.7682299949,
+  "lon": -73.7382355256,
+  "kind": "library"
+ },
+ {
+  "name": "Community Mediation Services, Inc.",
+  "address": "10-44 41 Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7548801631,
+  "lon": -73.944574581,
+  "kind": "legal help"
+ },
+ {
+  "name": "Cv 113Th Pct Site A - Sutphin Blvd",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "Lefferts",
+  "address": "103-34 Lefferts Boulevard",
+  "city": "South Richmond Hill",
+  "zip": "11419",
+  "lat": 40.6869096925,
+  "lon": -73.8248405908,
+  "kind": "library"
+ },
+ {
+  "name": "Community Mediation Services, Inc.",
+  "address": "10-30 41 Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7548801631,
+  "lon": -73.944574581,
+  "kind": "legal help"
+ },
+ {
+  "name": "Life Camp Inc",
+  "address": "111-12 Sutphin Boulevard",
+  "city": "Jamaica",
+  "zip": "11435",
+  "lat": 40.6881450905,
+  "lon": -73.7955621449,
+  "kind": "legal help"
+ },
+ {
+  "name": "Sanctuary For Families Inc",
+  "address": "126-02 82 Avenue",
+  "city": "Kew Gardens",
+  "zip": "11415",
+  "lat": 40.7132482402,
+  "lon": -73.8258806331,
+  "kind": "legal help"
+ },
+ {
+  "name": "Court Square (Future Home)",
+  "address": "22-44 Jackson Avenue",
+  "city": "Long Island City",
+  "zip": "11101",
+  "lat": 40.7449221705,
+  "lon": -73.9456659757,
+  "kind": "library"
+ }
+]

@@ -1,0 +1,308 @@
+/* google maps colors */
+
+body {
+  margin: 0;
+  font-family: Roboto, Arial, sans-serif;
+  color: #202124;
+}
+
+h1, h2 {
+  margin: 0;
+  font-weight: 500;
+}
+
+a { color: #1a73e8; }
+
+.hide { display: none; }
+
+
+/* ---- language picker ---- */
+
+#pick {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 56px 20px 60px;
+}
+
+#pick h1 {
+  font-size: 34px;
+  letter-spacing: -0.5px;
+}
+
+.sub {
+  margin: 6px 0 18px;
+  font-size: 22px;
+  color: #202124;
+}
+
+.note {
+  max-width: 600px;
+  font-size: 14px;
+  line-height: 22px;
+  color: #5f6368;
+}
+
+.small { margin-top: 40px; font-size: 12px; }
+
+#search:focus {
+  outline: none;
+  border-color: #1a73e8;
+}
+
+#langs {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 12px;
+  margin-top: 28px;
+}
+
+.lang {
+  padding: 18px 16px;
+  background: #fff;
+  border: 1px solid #dadce0;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.lang:hover {
+  background: #f8f9fa;
+  box-shadow: 0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.native {
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 34px;
+}
+
+.en {
+  margin-top: 4px;
+  font-size: 13px;
+  color: #5f6368;
+}
+
+.count {
+  margin-top: 8px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #188038;
+}
+
+
+/* ---- map screen ---- */
+
+#main {
+  display: flex;
+  height: 100vh;
+}
+
+#panel {
+  display: flex;
+  flex-direction: column;
+  width: 408px;
+  background: #fff;
+  box-shadow: 0 0 10px rgba(60,64,67,.28);
+  z-index: 500;
+}
+
+#top {
+  padding: 12px 16px 14px;
+  border-bottom: 1px solid #e8eaed;
+}
+
+.row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+#back {
+  width: 36px;
+  height: 36px;
+  font-size: 18px;
+  color: #5f6368;
+  background: #fff;
+  border: none;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+#back:hover { background: #f1f3f4; }
+
+#search {
+  flex: 1;
+  padding: 9px 14px;
+  font-family: inherit;
+  font-size: 14px;
+  border: 1px solid #dadce0;
+  border-radius: 20px;
+}
+
+#langname {
+  margin: 16px 0 14px;
+  font-size: 30px;
+  line-height: 36px;
+}
+
+#loc {
+  width: 100%;
+  padding: 9px;
+  font-family: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  color: #1a73e8;
+  background: #fff;
+  border: 1px solid #dadce0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+#loc:hover { background: #f8f9fa; }
+
+#top label {
+  display: block;
+  margin-top: 12px;
+  font-size: 13px;
+  color: #5f6368;
+}
+
+#list {
+  flex: 1;
+  overflow-y: auto;
+}
+
+.card {
+  padding: 14px 16px;
+  border-bottom: 1px solid #e8eaed;
+  cursor: pointer;
+}
+
+.card:hover { background: #f8f9fa; }
+
+.card.on { background: #e8f0fe; }
+
+.card h3 {
+  margin: 0;
+  font-size: 15px;
+  font-weight: 500;
+  color: #1a73e8;
+}
+
+.card p {
+  margin: 3px 0 0;
+  font-size: 13px;
+  line-height: 19px;
+  color: #5f6368;
+}
+
+.chip {
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 12px;
+  font-weight: 500;
+  color: #188038;
+}
+
+.chip.grey { color: #5f6368; }
+
+/* no clinics message */
+.gap {
+  padding: 16px;
+  font-size: 13px;
+  line-height: 20px;
+  color: #5f6368;
+  background: #fef7f6;
+  border-bottom: 1px solid #e8eaed;
+}
+
+.gap h3 {
+  margin: 0 0 6px;
+  font-size: 15px;
+  color: #d93025;
+}
+
+.gap ul { margin: 8px 0 0; padding-left: 18px; }
+.gap li { margin-bottom: 4px; }
+
+#srcs {
+  padding: 12px 16px;
+  font-size: 11px;
+  line-height: 17px;
+  color: #5f6368;
+  border-top: 1px solid #e8eaed;
+}
+
+#map { flex: 1; }
+
+
+/* ---- pins ---- */
+
+.pin {
+  width: 14px;
+  height: 14px;
+  background: #ea4335;
+  border: 2px solid #fff;
+  border-radius: 50%;
+  box-shadow: 0 1px 3px rgba(60,64,67,.5);
+}
+
+.pin.grey {
+  width: 10px;
+  height: 10px;
+  background: #5f6368;
+}
+
+.cluster {
+  width: 34px;
+  height: 34px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 34px;
+  text-align: center;
+  color: #fff;
+  background: #ea4335;
+  border: 3px solid rgba(255,255,255,.8);
+  border-radius: 50%;
+}
+
+.cluster.grey { background: #5f6368; }
+
+.leaflet-popup-content {
+  margin: 14px 16px;
+  font-size: 13px;
+  line-height: 19px;
+}
+
+.leaflet-popup-content h3 {
+  margin: 0 0 4px;
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.leaflet-popup-content p {
+  margin: 2px 0;
+  color: #5f6368;
+}
+
+
+/* ---- phones ---- */
+
+@media (max-width: 760px) {
+  /* puts the map on top */
+  #main {
+    flex-direction: column-reverse;
+  }
+
+  #map {
+    height: 38vh;
+  }
+
+  /* scrolls as one piece */
+  #panel {
+    width: auto;
+    height: 62vh;
+    overflow-y: auto;
+  }
+
+  #list { overflow: visible; }
+}

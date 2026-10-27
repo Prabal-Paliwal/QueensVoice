@@ -1,0 +1,110 @@
+[
+ {
+  "name": "American Sign Language",
+  "native": "ASL",
+  "tag": "ase",
+  "sites": 35
+ },
+ {
+  "name": "Arabic",
+  "native": "العربية",
+  "tag": "ar",
+  "sites": 3
+ },
+ {
+  "name": "Chinese",
+  "native": "中文",
+  "tag": "zh",
+  "sites": 13
+ },
+ {
+  "name": "English",
+  "native": "English",
+  "tag": "en",
+  "sites": 82
+ },
+ {
+  "name": "French",
+  "native": "Français",
+  "tag": "fr",
+  "sites": 4
+ },
+ {
+  "name": "German",
+  "native": "Deutsch",
+  "tag": "de",
+  "sites": 1
+ },
+ {
+  "name": "Greek",
+  "native": "Ελληνικά",
+  "tag": "el",
+  "sites": 1
+ },
+ {
+  "name": "Haitian Creole",
+  "native": "Kreyòl Ayisyen",
+  "tag": "ht",
+  "sites": 12
+ },
+ {
+  "name": "Hebrew",
+  "native": "עברית",
+  "tag": "he",
+  "sites": 6
+ },
+ {
+  "name": "Hindi",
+  "native": "हिन्दी",
+  "tag": "hi",
+  "sites": 16
+ },
+ {
+  "name": "Japanese",
+  "native": "日本語",
+  "tag": "ja",
+  "sites": 3
+ },
+ {
+  "name": "Korean",
+  "native": "한국어",
+  "tag": "ko",
+  "sites": 8
+ },
+ {
+  "name": "Persian (Farsi)",
+  "native": "فارسی",
+  "tag": "fa",
+  "sites": 5
+ },
+ {
+  "name": "Polish",
+  "native": "Polski",
+  "tag": "pl",
+  "sites": 6
+ },
+ {
+  "name": "Portuguese",
+  "native": "Português",
+  "tag": "pt",
+  "sites": 1
+ },
+ {
+  "name": "Russian",
+  "native": "Русский",
+  "tag": "ru",
+  "sites": 12
+ },
+ {
+  "name": "Spanish",
+  "native": "Español",
+  "tag": "es",
+  "sites": 60
+ },
+ {
+  "name": "Tagalog (Filipino)",
+  "native": "Tagalog",
+  "tag": "tl",
+  "sites": 5
+ }
+]
